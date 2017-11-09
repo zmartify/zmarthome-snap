@@ -20,3 +20,4 @@ After install, assuming you and the device on which it was installed are on the 
 Port on which web interface is exposed can be configured. For more help run $ openhab.help
 
 For more information about openHAB refer to http://www.openhab.org
+# zmarthome-snap
